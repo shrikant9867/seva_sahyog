@@ -1,0 +1,16 @@
+[
+ {
+  "current_value": 0,
+  "docstatus": 0,
+  "doctype": "Naming Series",
+  "modified": "2018-09-05 16:18:23.964687",
+  "name": "Naming Series",
+  "parent": null,
+  "parentfield": null,
+  "parenttype": null,
+  "prefix": null,
+  "select_doc_for_series": null,
+  "set_options": null,
+  "user_must_always_select": 0
+ }
+]

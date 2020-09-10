@@ -1,0 +1,26 @@
+[
+ {
+  "docstatus": 0,
+  "doctype": "Payment Terms Template",
+  "modified": "2019-07-30 14:14:31.980629",
+  "name": "Payment on Delivery -15 d",
+  "parent": null,
+  "parentfield": null,
+  "parenttype": null,
+  "template_name": "Payment on Delivery -15 d",
+  "terms": [
+   {
+    "credit_days": 15,
+    "credit_months": 0,
+    "description": null,
+    "due_date_based_on": "Day(s) after invoice date",
+    "invoice_portion": 100.0,
+    "mode_of_payment": null,
+    "parent": "Payment on Delivery -15 d",
+    "parentfield": "terms",
+    "parenttype": "Payment Terms Template",
+    "payment_term": null
+   }
+  ]
+ }
+]

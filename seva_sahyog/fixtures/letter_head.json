@@ -1,0 +1,30 @@
+[
+ {
+  "content": "<h1><strong>Seva Sahayog Foundation</strong></h1><div><strong>Reg. no. U85100PN2009NPL168137</strong></div><div>Ground Floor, Maharshi Dadhichi Hospital,</div><div>Near Santacruz east bus station, Santacruz (East), Mumbai 400055.</div><div><a href=\"http://www.sevasahayog.org\">www.sevasahayog.org</a> | Tel. no.: 022-26189779 | Email: mumbai@sevasahayog.com</div><div style=\"text-align: center;\"><span style=\"color: rgb(255, 153, 0);\">____________________________________________________________________________________________________________________________________________________</span></div>",
+  "disabled": 0,
+  "docstatus": 0,
+  "doctype": "Letter Head",
+  "footer": "<div style=\"text-align: right;\"><strong>Pune Office: </strong>Pathik, 18, Vrundavan Society, Near Shree Shree Ravishankar School,</div><div style=\"text-align: right;\">Mhatre bridge, Navi Peth, Pune - 411030    |    Tel.: 020-24537655</div><div style=\"text-align: right;\"><strong>Regd. Address:</strong> Plot no. 75, Tulshibagwaale colony, Sahakar Nagar no. 2, Parvati, Pune 411009</div><div style=\"text-align: right;\"><strong style=\"color: rgb(255, 153, 0);\">____________________________________</strong></div>",
+  "is_default": 0,
+  "letter_head_name": "Seva Sahayog Letter Head",
+  "modified": "2019-08-01 15:11:27.343837",
+  "name": "Seva Sahayog Letter Head",
+  "parent": null,
+  "parentfield": null,
+  "parenttype": null
+ },
+ {
+  "content": "<div>\n<div><img src=\"http://sevasahayog.org/wp-content/uploads/2019/07/Resistered-logo-of-Seva-Sahayog-Main.png\" style=\"width: 220px; height: 110px;\"><br></div></div>\n",
+  "disabled": 0,
+  "docstatus": 0,
+  "doctype": "Letter Head",
+  "footer": null,
+  "is_default": 1,
+  "letter_head_name": "Seva Sahayog",
+  "modified": "2019-08-09 16:26:34.050765",
+  "name": "Seva Sahayog",
+  "parent": null,
+  "parentfield": null,
+  "parenttype": null
+ }
+]
