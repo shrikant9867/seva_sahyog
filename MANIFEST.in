@@ -1,0 +1,18 @@
+include MANIFEST.in
+include requirements.txt
+include *.json
+include *.md
+include *.py
+include *.txt
+recursive-include seva_sahyog *.css
+recursive-include seva_sahyog *.csv
+recursive-include seva_sahyog *.html
+recursive-include seva_sahyog *.ico
+recursive-include seva_sahyog *.js
+recursive-include seva_sahyog *.json
+recursive-include seva_sahyog *.md
+recursive-include seva_sahyog *.png
+recursive-include seva_sahyog *.py
+recursive-include seva_sahyog *.svg
+recursive-include seva_sahyog *.txt
+recursive-exclude seva_sahyog *.pyc
